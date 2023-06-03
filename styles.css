@@ -1,0 +1,30 @@
+#image {
+    width: 400px;
+    height: auto;
+    background-size: cover;
+    background-position: center;
+    max-width: 100%
+  }
+  
+  img {
+    display: block;
+    margin: auto;
+  }
+  
+  #title {
+    text-align: center;
+    background-image: black;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: black;
+  }
+  
+  #img-caption {
+    text-align: center;
+  }
+  
+  body{
+    background-image: linear-gradient(to right,green, yellow, red);
+  }
+  
